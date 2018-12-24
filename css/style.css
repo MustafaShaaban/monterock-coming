@@ -50,9 +50,9 @@
         -ms-flex-pack: center;
             justify-content: center
 }
-.body .content { width: 100%; background-image: url('../img/bg.png');}
+.body .content { width: 100%; background-image: url('../img/bg.png'); margin-top: -100px}
 .body .footer { position: absolute; bottom: 4%; }
-.body .footer img { width: 350px; margin-bottom: 20px }
+.body .footer img { width: 350px; margin-bottom: 30px }
 
 /**
     Media Queries
